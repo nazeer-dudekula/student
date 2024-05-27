@@ -6,7 +6,7 @@ on:
 
     branches:
 
-      - "main" # Change this to match your default branch name
+      - "master"
  
 jobs:
 
